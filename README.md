@@ -27,9 +27,6 @@
                     </li>
                     </a>
                     <hr>
-                </ul>
-                </li>
-                </ul>
             </div>
         </div>
     </nav>
@@ -144,16 +141,6 @@
             <br><br>
             <p><b>Precio: $13.000 si es a domicilio - $8.000 si es en el local de servico donde se realizara el
                     trabajo.</b></p>
-        </div>
-        <div class="col-3 bordes">
-            <h1 class="text-center">El cliente tiene que firmar un contrato que afirme el consentimiento del cliente
-                tomando en cuenta los riesgos de el mismo servicio, ademas con los activos de alta calidad con los que
-                trabajamos le entregaremos el trabajo mejor hecho posible.</p>
-                <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/24d7a56cff28bbe5517f6ad093f55ec25f9fcd59/why-does-winrar-give-you-a-free-trial-for-a-lifetime-thumb-eWjUuTbbZ.jpg"
-                    alt="" class="w-100" height="250">
-                <br><br>
-                <p><b>Precio: $60.000(completo) si es servico a domicilio $35.000 si es en el local de servico donde se
-                        realizara el trabajo.</b></p>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
