@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +9,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
@@ -95,6 +97,7 @@
             <br><br>
             <p><b>Precio: $12.000</b></p>
         </div>
+        <br><br>
         <div class="col-3 bordes">
             <h1 class="text-center">Limpieza interna</h1>
             <p>Para las limpiezas internas u externas de un pc contamos con activos(herramientas) lo mas optimos y de
@@ -115,6 +118,16 @@
                 alt="" class="w-100" height="250">
             <br><br>
             <p><b>Precio: $15.000</b></p>
+        </div>
+        <br><br>
+        <div class="col-3 bordes">
+            <h1 class="text-center">WinRar Licenciado</h1>
+            <p>Les precentamos el paquete de winrar con la licencia permanente, cada vez que lo abren les solicita
+                comprar winrar y en el mercado sale un ojo de la cara, no busque mas aqui les traemos su solucion.</p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/24d7a56cff28bbe5517f6ad093f55ec25f9fcd59/why-does-winrar-give-you-a-free-trial-for-a-lifetime-thumb-eWjUuTbbZ.jpg"
+                alt="" class="w-100" height="250">
+            <br><br>
+            <p><b>Precio: $8.000</b></p>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
