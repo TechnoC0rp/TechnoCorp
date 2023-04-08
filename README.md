@@ -42,14 +42,14 @@
         <div class="col-6">
             <h1 class="text-center">TechnoCorp</h1>
             <div class="row">
-                <div class="col-4">
+                <div class="col-6">
                     <p>Bienvenido a technocorp les brindamos iun servicio optimo contando con activos de alta calidad y
                         con los conocimientos necesarios para entregar un trabajo como corresponde, claro es lo minimo
                         que se merese el cliente estamos para servirles.</p>
                     <br>
                     <hr>
                 </div>
-                <div class="col-4">
+                <div class="col-md-6">
                     <p>Contactos: technocorp2023@gmail.com - Fono: +56 9 8662 2381 -
                         +56 9 5302 6709 <br>
                         <hr><a href=">https://www.instagram.com/techno.c0rp">https://www.instagram.com/techno.c0rp/</a>
@@ -57,7 +57,7 @@
                             alt="" height="220" width="300">
                     </p>
                 </div>
-                <div class="col-4">
+                <div class="col-md-6">
                     <p>Cualquier duda sobre los servicos no dude en contactarnos a traves de cuakquiera de los medios
                         entregados, estaremos muy felices de entregarles un servicio de calid.</p>
                 </div>
