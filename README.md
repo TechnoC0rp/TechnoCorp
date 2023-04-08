@@ -54,7 +54,7 @@
                         +56 9 5302 6709 <br>
                         <hr><a href=">https://www.instagram.com/techno.c0rp">https://www.instagram.com/techno.c0rp/</a>
                         <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/a80cbe03-a1e1-4b09-9bc6-b08f8b682ae6.jpg"
-                            alt="" height="300" width="220">
+                            alt="" height="220" width="300">
                     </p>
                 </div>
                 <div class="col-4">
