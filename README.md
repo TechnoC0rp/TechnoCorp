@@ -27,6 +27,9 @@
                     </li>
                     </a>
                     <hr>
+                </ul>
+                </li>
+                </ul>
             </div>
         </div>
     </nav>
