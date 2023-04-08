@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +8,6 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
 </head>
-
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
@@ -37,7 +35,7 @@
     <div class="row">
         <div class="col-6">
             <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/99.jpg"
-                alt="" class="w-100" height="650">
+                alt="" class="w-100" height="300">
         </div>
         <br>
         <hr>
@@ -56,7 +54,7 @@
                         +56 9 5302 6709 <br>
                         <hr><a href=">https://www.instagram.com/techno.c0rp">https://www.instagram.com/techno.c0rp/</a>
                         <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/a80cbe03-a1e1-4b09-9bc6-b08f8b682ae6.jpg"
-                            alt="" height="360">
+                            alt="" height="300" width="220">
                     </p>
                 </div>
                 <div class="col-4">
