@@ -66,8 +66,7 @@
             </div>
         </div>
     </div>
-    <br>
-    <hr><br><br>
+    <br><br>
     <div class="row bg-light">
         <div class="col-3 bordes">
             <h1 class="text-center">FormateoPC</h1>
@@ -79,8 +78,7 @@
             <br><br>
             <p><b>Precio: $20.000</b></p>
         </div>
-        <br>
-        <hr>
+        <br><br>
         <div class="col-3 bordes">
             <h1 text-center>Office licencia</h1>
             <p>Tenemos office de su preferencia, tambien el costo de este servicio viene incluida la licencia
@@ -92,8 +90,7 @@
             <p><b>Precio: $13.000 si es a domicilio $8.000 si es en el local de servico donde se realizara el
                     trabajo.</b></p>
         </div>
-        <br>
-        <hr>
+        <br><br>
         <div class="col-3 bordes">
             <h1 text-center>Optimisar y limpiar virus</h1>
             <p>Analizis profundo de PC detectamos con codigo el virus si esque es necesario ademas este servicio viene
@@ -106,8 +103,6 @@
             <p><b>Precio: $17.000 si es a domicilio - $12.000 si es en el local de servico donde se realizara el
                     trabajo.</b></p>
         </div>
-        <br>
-        <hr>
         <br><br>
         <div class="col-3 bordes">
             <h1 class="text-center">Limpieza interna</h1>
