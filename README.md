@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -8,11 +8,10 @@
     <title>TechnCorp</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
-    <!--  alt + shift + f -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
             <a class="navbar-brand" href="#">TechnoCorp</a>
@@ -55,7 +54,7 @@
     <div class="row"><!-- primera fila -->
        
             <div class="col-6"><!-- primera columna img -->
-                <img src="../img/99.jpg" alt="" class="w-100" height="650">
+                <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/99.jpg" alt="" class="w-100" height="650">
             </div>
         
             <div class="col-6"><!-- segunda columna -->
@@ -94,7 +93,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
                 deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
                 dolorum tenetur?</p>
-            <img src="../img/formateopc.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/formateopc.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
@@ -103,7 +102,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
                 deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
                 dolorum tenetur?</p>
-            <img src="../img/office.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/office.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
@@ -112,7 +111,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
                 deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
                 dolorum tenetur?</p>
-            <img src="../img/optimisar.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/optimisar.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
@@ -121,7 +120,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
                 deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
                 dolorum tenetur?</p>
-            <img src="../img/limpiesaint.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/limpiesaint.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
@@ -130,7 +129,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
                 deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
                 dolorum tenetur?</p>
-            <img src="../img/formateogmail.jpeg" alt="" class="w-100" height="250">
+            <img src="" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
@@ -141,6 +140,3 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
-</body>
-
-</html>
