@@ -1,4 +1,8 @@
 body{
   background-color: #5b7368;
 }
-@media(min-width:800px){}
+@media(min-width:600px){}
+
+@media(max-width:992px){
+        margin-left: 0px;
+}
