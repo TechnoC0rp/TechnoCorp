@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechnCorp</title>
+    <title>TechnoCorp</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
@@ -20,12 +20,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 espacio">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="https://technoc0rp.github.io/TechnoCorp">Inicio</a>
-                    </li>     
-                        </a>  
-                            <hr>
-                        </ul>
+                        <a class="nav-link active" aria-current="page"
+                            href="https://technoc0rp.github.io/TechnoCorp">Inicio</a>
                     </li>
+                    </a>
+                    <hr>
+                </ul>
+                </li>
                 </ul>
             </div>
         </div>
@@ -46,8 +47,11 @@
                         que se merese el cliente estamos para servirles.</p>
                 </div>
                 <div class="col-4">
-                    <p>Contactos: technocorp2023@gmail.com - Fono: +56 9 8662 2381 - +56 9 5302 6709<a
+                    <p>Contactos: technocorp2023@gmail.com - Fono: +56 9 8662 2381 -
+                        +56 9 5302 6709<a
                             href=">https://www.instagram.com/techno.c0rp">https://www.instagram.com/techno.c0rp/</a>
+                        <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/a80cbe03-a1e1-4b09-9bc6-b08f8b682ae6.jpg"
+                            alt="" height="360">
                     </p>
                 </div>
                 <div class="col-4">
@@ -96,7 +100,7 @@
             <p>Para las limpiezas internas u externas de un pc contamos con activos(herramientas) lo mas optimos y de
                 mejor calidad posible para que de iogual manera se logre un trabajo de calidad.
                 Todo segundo de trabajo si se trata de limpieza interna y externa sera grabado para su tranquilidad.
-                tiempo estimado 5 horas</p>
+            <p>tiempo estimado 5 horas</p>
             <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/limpiesaint.jpeg"
                 alt="" class="w-100" height="250">
             <br><br>
