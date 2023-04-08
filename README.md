@@ -1,4 +1,3 @@
-
 <html lang="en">
 
 <head>
@@ -14,7 +13,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid ">
-            <a class="navbar-brand" href="#">TechnoCorp</a>
+            <a class="navbar-brand" href="https://technoc0rp.github.io/TechnoCorp">TechnoCorp</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -27,111 +26,104 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="https://technoc0rp.github.io/TechnoCorp"
+                            id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Buscar Por
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 
                             <li><a class="dropdown-item" href="#">Precios</a></li>
                             <hr>
-                            <li><a class="dropdown-item" href="#">Trabajdores</a></li>
-
                         </ul>
                     </li>
-
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-success" type="submit">Search</button>
-                </form>
             </div>
         </div>
     </nav>
-
     <hr>
+    <div class="row">
 
-    <div class="row"><!-- primera fila -->
-       
-            <div class="col-6"><!-- primera columna img -->
-                <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/99.jpg" alt="" class="w-100" height="650">
-            </div>
-        
-            <div class="col-6"><!-- segunda columna -->
-                <h1 class="text-center">TechnoCorp</h1>
-                <div class="row">
-                    <div class="col-4">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt repudiandae quis quam sit
-                            saepe
-                            repellendus, unde suscipit dolor culpa, quibusdam soluta maiores illum incidunt aspernatur
-                            tenetur accusamus quia deserunt dolores.</p>
-                    </div>
-                    <div class="col-4">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus nisi labore tenetur commodi
-                            porro
-                            officiis, pariatur aut asperiores non beatae minima vel ipsam cumque. Beatae blanditiis
-                            eveniet
-                            quasi adipisci est?</p>
-                    </div>
-                    <div class="col-4">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam adipisci quas illum?
-                            Animi
-                            maiores, repellendus perferendis similique inventore soluta consectetur iusto consequatur
-                            quia.
-                            Optio omnis enim libero minus reprehenderit!</p>
-                    </div>
+        <div class="col-6">
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/99.jpg"
+                alt="" class="w-100" height="650">
+        </div>
+
+        <div class="col-6">
+            <h1 class="text-center">TechnoCorp</h1>
+            <div class="row">
+                <div class="col-4">
+                    <p>Bienvenido a technocorp les brindamos iun servicio optimo contando con activos de alta calidad y
+                        con los conocimientos necesarios para entregar un trabajo como corresponde, claro es lo minimo
+                        que se merese el cliente estamos para servirles.</p>
+                </div>
+                <div class="col-4">
+                    <p>Contactos: technocorp2023@gmail.com - Fono: +56 9 8662 2381 - +56 9 5302 6709<a
+                            href=">https://www.instagram.com/techno.c0rp">https://www.instagram.com/techno.c0rp/</a>
+                    </p>
+                </div>
+                <div class="col-4">
+                    <p>Cualquier duda sobre los servicos no dude en contactarnos a traves de cuakquiera de los medios
+                        entregados, estaremos muy felices de entregarles un servicio de calid.</p>
                 </div>
             </div>
         </div>
-    
+    </div>
+
     <br>
     <hr><br><br>
 
     <div class="row bg-light">
         <div class="col-3 bordes">
             <h1 class="text-center">FormateoPC</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/formateopc.jpeg" alt="" class="w-100" height="250">
+            <p>El formateo lo hacemos de con pendrive y codigo para evitar aplicasiones con virus de algun tipo el
+                tiempo estimado para que el computador formateado lllegue a sus manos deve sera en un periodo de 24
+                horas.</p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/formateopc.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
+            <p><b>Precio: $20.000</b></p>
         </div>
         <div class="col-3 bordes">
             <h1 text-center>Office licencia</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/office.jpeg" alt="" class="w-100" height="250">
+            <p>Tenemos office de su preferencia, tambien el costo de este servicio viene incluida la licencia
+                anual(permanente) consulte en los contactos para agendar el servicio.
+                tiempo estimado 3 horas.</p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/office.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
+            <p><b>Precio: $8.000</b></p>
         </div>
         <div class="col-3 bordes">
             <h1 text-center>Optimisar y limpiar virus</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/optimisar.jpeg" alt="" class="w-100" height="250">
+            <p>Analizis profundo de PC detectamos con codigo el virus si esque es necesario ademas este servicio viene
+                con una restauracion que permite volver el equipo a su estado mas optimo posible.
+                Tiempo estimado de trabajo 3 horas.
+            </p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/optimisar.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
+            <p><b>Precio: $12.000</b></p>
         </div>
         <div class="col-3 bordes">
             <h1 class="text-center">Limpieza interna</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/limpiesaint.jpeg" alt="" class="w-100" height="250">
+            <p>Para las limpiezas internas u externas de un pc contamos con activos(herramientas) lo mas optimos y de
+                mejor calidad posible para que de iogual manera se logre un trabajo de calidad.
+                Todo segundo de trabajo si se trata de limpieza interna y externa sera grabado para su tranquilidad.
+                tiempo estimado 5 horas</p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/limpiesaint.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
+            p><b>Precio: $30.000</b></p>
         </div>
         <div class="col-3 bordes">
             <h1 class="text-center">Formateo por gmail</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="" alt="" class="w-100" height="250">
+            <p>Hacemos formateos de celulares(menos iphone por ahora) desde el clasico reeboot para llevarlo a su forma
+                de fabrica o el por gmail que es muy molesto y normalmente deja bloqueado el celu por aquel gmail.
+            </p>
+            <img src="https://raw.githubusercontent.com/TechnoC0rp/TechnoCorp/927df21450660343ea0b44ad4e417769b4103d89/formateogmail.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
+            <p><b>Precio: $15.000</b></p>
         </div>
 
     </div>
